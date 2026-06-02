@@ -33,7 +33,7 @@ personalized subject line (Group B).
 ## Recommendation
 Roll out personalised subject lines to the full send list. At 10,000 users 
 per campaign, this yields an estimated +72 additional conversions per send 
-with no additional cost — only a change in copywriting strategy.
+with no additional cost.
 
 ## Limitations
 Data is simulated based on realistic industry benchmarks. In a real setting, 
