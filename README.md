@@ -44,5 +44,5 @@ customer segments before full rollout.
 `Python` · `pandas` · `numpy` · `scipy` · `matplotlib` · `seaborn`
 
 ## How to Run
-pip install pandas numpy scipy matplotlib seaborn
-jupyter notebook ab_test_email_campaign.ipynb
+Install pandas, numpy, scipy, matplotlib & seaborn
+Download & run jupyter notebook: ab_test_email_campaign.ipynb
