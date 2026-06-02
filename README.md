@@ -3,7 +3,7 @@ Statistical A/B test analysis of email campaign performance using Chi-Squared te
 
 ## Business Context
 E-retail marketing teams constantly test messaging strategies to improve 
-campaign performance. This project simulates and analyses an A/B test 
+campaign performance. This project simulates and analyzes an A/B test 
 comparing a generic promotional subject line (Group A) against a 
 personalized subject line (Group B).
 
